@@ -1,0 +1,18 @@
+h1 {
+color: #6ab4ce;
+text-align: center;
+text-decoration: underline;
+}
+title {
+rel='icon' type='image/png' href='FootballSprite.png';
+}
+body {
+background-color: #75cae8;
+}
+table{
+text-align: center; font-size: 24px; justify-content: space-around; margin-left: 32px; width: 1280px;
+}
+tr{
+background-color: lightblue;
+
+}
